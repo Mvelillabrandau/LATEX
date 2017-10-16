@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ociamthesismain.aux
+The style file: plain.bst
+Database file #1: refs.bib
+Repeated entry---line 202 of file refs.bib
+ : @inproceedings{cambazoglu2010refreshing
+ :                                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 211 of file refs.bib
+ : @inproceedings{gan2009improved
+ :                               ,
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in named_data_networking
+Warning--to sort, need author or key in nsf10528
+Warning--to sort, need author or key in nsf13538
+Warning--empty journal in gomez2014servicios
+Warning--empty institution in kutscher2016information
+You've used 28 entries,
+            2118 wiz_defined-function locations,
+            650 strings with 9327 characters,
+and the built_in function-call counts, 10622 in all, are:
+= -- 1065
+> -- 507
+< -- 12
++ -- 213
+- -- 174
+* -- 718
+:= -- 1672
+add.period$ -- 91
+call.type$ -- 28
+change.case$ -- 170
+chr.to.int$ -- 0
+cite$ -- 33
+duplicate$ -- 415
+empty$ -- 824
+format.name$ -- 174
+if$ -- 2290
+int.to.chr$ -- 0
+int.to.str$ -- 28
+missing$ -- 26
+newline$ -- 140
+num.names$ -- 50
+pop$ -- 208
+preamble$ -- 1
+purify$ -- 143
+quote$ -- 0
+skip$ -- 315
+stack$ -- 0
+substring$ -- 640
+swap$ -- 129
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 108
+warning$ -- 5
+while$ -- 97
+width$ -- 30
+write$ -- 304
+(There were 2 error messages)

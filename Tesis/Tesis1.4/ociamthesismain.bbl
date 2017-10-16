@@ -1,0 +1,270 @@
+\begin{thebibliography}{10}
+
+\bibitem{nsf13538}
+Future internet architectures -- next phase (fia-np) (nsf13538).
+\newblock https://www.nsf.gov/pubs/2013/nsf13538/nsf13538.htm.
+
+\bibitem{nsf10528}
+Future internet architectures (fia) nsf10528.
+\newblock https://www.nsf.gov/pubs/2010/nsf10528/nsf10528.htm.
+
+\bibitem{named_data_networking}
+Named data networking: Executive summary - named data networking (ndn).
+\newblock https://named-data.net/project/execsummary/.
+
+\bibitem{abrams1996removal}
+Marc Abrams, Charles~R Standridge, Ghaleb Abdulla, Edward~A Fox, and Stephen
+  Williams.
+\newblock Removal policies in network caches for world-wide web documents.
+\newblock In {\em Acm sigcomm computer communication review}, volume~26, pages
+  293--305. ACM, 1996.
+
+\bibitem{aggarwal1999caching}
+Charu Aggarwal, Joel~L Wolf, and Philip~S. Yu.
+\newblock Caching on the world wide web.
+\newblock {\em IEEE Transactions on Knowledge and data Engineering},
+  11(1):94--107, 1999.
+
+\bibitem{ahlgren2012survey}
+Bengt Ahlgren, Christian Dannewitz, Claudio Imbrenda, Dirk Kutscher, and Borje
+  Ohlman.
+\newblock A survey of information-centric networking.
+\newblock {\em IEEE Communications Magazine}, 50(7), 2012.
+
+\bibitem{altingovde2009cost}
+Ismail~Sengor Altingovde, Rifat Ozcan, and {\"O}zg{\"u}r Ulusoy.
+\newblock A cost-aware strategy for query result caching in web search engines.
+\newblock In {\em European Conference on Information Retrieval}, pages
+  628--636. Springer, 2009.
+
+\bibitem{baeza2007admission}
+Ricardo Baeza-Yate, Flavio Junqueira, Vassilis Plachouras, and Hans~Friedrich
+  Witschel.
+\newblock Admission policies for caches of search engine results.
+\newblock In {\em International Symposium on String Processing and Information
+  Retrieval}, pages 74--85. Springer, 2007.
+
+\bibitem{baeza2012modeling}
+Ricardo Baeza-Yates and Simon Jonassen.
+\newblock Modeling static caching in web search engines.
+\newblock In {\em European Conference on Information Retrieval}, pages
+  436--446. Springer, 2012.
+
+\bibitem{bahn2002efficient}
+Hyokyung Bahn, Kern Koh, Sam~H Noh, and SM~Lyul.
+\newblock Efficient replacement of nonuniform objects in web caches.
+\newblock {\em Computer}, 35(6):65--73, 2002.
+
+\bibitem{cambazoglu2010refreshing}
+Berkant~Barla Cambazoglu, Flavio~P Junqueira, Vassilis Plachouras, Scott
+  Banachowski, Baoqiu Cui, Swee Lim, and Bill Bridge.
+\newblock A refreshing perspective of search engine caching.
+\newblock In {\em Proceedings of the 19th international conference on World
+  wide web}, pages 181--190. ACM, 2010.
+
+\bibitem{chen2011time}
+Z~Chen, H~Yang, J~Ma, J~Lei, and H~Gao.
+\newblock Time-based query classification and its application for page rank.
+\newblock {\em J Comput Info Sys}, 7:3149--3156, 2011.
+
+\bibitem{cho2012wave}
+Kideok Cho, Munyoung Lee, Kunwoo Park, Ted~Taekyoung Kwon, Yanghee Choi, and
+  Sangheon Pack.
+\newblock Wave: Popularity-based and collaborative in-network caching for
+  content-oriented networks.
+\newblock In {\em Computer Communications Workshops (INFOCOM WKSHPS), 2012 IEEE
+  Conference on}, pages 316--321. IEEE, 2012.
+
+\bibitem{einziger2014tinylfu}
+Gil Einziger and Roy Friedman.
+\newblock Tinylfu: A highly efficient cache admission policy.
+\newblock In {\em Parallel, Distributed and Network-Based Processing (PDP),
+  2014 22nd Euromicro International Conference on}, pages 146--153. IEEE, 2014.
+
+\bibitem{gan2009improved}
+Qingqing Gan and Torsten Suel.
+\newblock Improved techniques for result caching in web search engines.
+\newblock In {\em Proceedings of the 18th international conference on World
+  wide web}, pages 431--440. ACM, 2009.
+
+\bibitem{gomez2014servicios}
+Carlos~Luis G{\'o}mez~Pantoja.
+\newblock Servicios de cache distribuidos para motores de b{\'u}squeda web.
+\newblock 2014.
+
+\bibitem{jacobson2006new}
+Van Jacobson.
+\newblock A new way to look at networking.
+\newblock {\em Google Tech Talk}, 30, 2006.
+
+\bibitem{jacobson2009networking}
+Van Jacobson, Diana~K Smetters, James~D Thornton, Michael~F Plass, Nicholas~H
+  Briggs, and Rebecca~L Braynard.
+\newblock Networking named content.
+\newblock In {\em Proceedings of the 5th international conference on Emerging
+  networking experiments and technologies}, pages 1--12. ACM, 2009.
+
+\bibitem{kumar2008new}
+Chetan Kumar and John~B Norris.
+\newblock A new approach for a proxy-level web caching mechanism.
+\newblock {\em Decision Support Systems}, 46(1):52--60, 2008.
+
+\bibitem{kutscher2016information}
+Dirk Kutscher, Suyong Eum, Kostas Pentikousis, Ioannis Psaras, Daniel Corujo,
+  Damien Saucez, T~Schmidt, and Matthias Waehlisch.
+\newblock Information-centric networking (icn) research challenges.
+\newblock Technical report, 2016.
+
+\bibitem{lempel2003predictive}
+Ronny Lempel and Shlomo Moran.
+\newblock Predictive caching and prefetching of query results in search
+  engines.
+\newblock In {\em Proceedings of the 12th international conference on World
+  Wide Web}, pages 19--28. ACM, 2003.
+
+\bibitem{markatos2001caching}
+Evangelos~P. Markatos.
+\newblock On caching search engine query results.
+\newblock {\em Computer Communications}, 24(2):137--143, 2001.
+
+\bibitem{muller2009future}
+Paul M{\"u}ller and Bernd Reuther.
+\newblock Future internet architecture--a service oriented approachfuture
+  internet architecture--ein serviceorientierter ansatz.
+\newblock {\em it-Information Technology}, 50(6):383--389, 2009.
+
+\bibitem{mun2017cache}
+Ju~Hyoung Mun and Hyesook Lim.
+\newblock Cache sharing using bloom filters in named data networking.
+\newblock {\em Journal of Network and Computer Applications}, 2017.
+
+\bibitem{nagaraj2004web}
+SV~Nagaraj.
+\newblock {\em Web caching and its applications}, volume 772.
+\newblock Springer Science \& Business Media, 2004.
+
+\bibitem{ozcan2012five}
+Rifat Ozcan, I~Sengor Altingovde, B~Barla Cambazoglu, Flavio~P Junqueira, and
+  {\"O}Zg{\"u}R Ulusoy.
+\newblock A five-level static cache architecture for web search engines.
+\newblock {\em Information Processing \& Management}, 48(5):828--840, 2012.
+
+\bibitem{podlipnig2003survey}
+Stefan Podlipnig and Laszlo B{\"o}sz{\"o}rmenyi.
+\newblock A survey of web cache replacement strategies.
+\newblock {\em ACM Computing Surveys (CSUR)}, 35(4):374--398, 2003.
+
+\bibitem{psaras2014network}
+Ioannis Psaras, Wei~Koong Chai, and George Pavlou.
+\newblock In-network cache management and resource allocation for
+  information-centric networks.
+\newblock {\em IEEE Transactions on Parallel and Distributed Systems},
+  25(11):2920--2931, 2014.
+
+\bibitem{ran2013performance}
+Jianhua Ran, Na~Lv, Ding Zhang, Yuanyuan Ma, and Zhenyong Xie.
+\newblock On performance of cache policies in named data networking.
+\newblock In {\em International Conference on Advanced Computer Science and
+  Electronics Information}, pages 668--671, 2013.
+
+\bibitem{rodriguez2001analysis}
+Pablo Rodriguez, Christian Spanner, and Ernst~W Biersack.
+\newblock Analysis of web caching architectures: Hierarchical and distributed
+  caching.
+\newblock {\em IEEE/ACM Transactions on Networking (TON)}, 9(4):404--418, 2001.
+
+\bibitem{rossini2013evaluating}
+Giuseppe Rossini and Dario Rossi.
+\newblock Evaluating ccn multi-path interest forwarding strategies.
+\newblock {\em Computer Communications}, 36(7):771--778, 2013.
+
+\bibitem{saraiva2001rank}
+Paricia~Correia Saraiva, Edleno Silva~de Moura, Novio Ziviani, Wagner Meira,
+  Rodrigo Fonseca, and Berthier Riberio-Neto.
+\newblock Rank-preserving two-level caching for scalable search engines.
+\newblock In {\em Proceedings of the 24th annual international ACM SIGIR
+  conference on Research and development in information retrieval}, pages
+  51--58. ACM, 2001.
+
+\bibitem{singh2011two}
+Amarjeet Singh, Mohd Hussain, and Rakesh Ranjan.
+\newblock Two level caching techniques for improving result ranking.
+\newblock {\em Bharati Vidyapeeth’s Institute of Computer Applications and
+  Management}, page 365, 2011.
+
+\bibitem{sosa2002arquitectura}
+V{\'\i}ctor Jes{\'u}s~Sosa Sosa and Leandro~Navarro Moldes.
+\newblock {\em Arquitectura para la distribuci{\'o}n de documentos en un
+  sistema distribuido a gran escala}.
+\newblock 2002.
+
+\bibitem{Spring:2002:MIT:964725.633039}
+Neil Spring, Ratul Mahajan, and David Wetherall.
+\newblock Measuring isp topologies with rocketfuel.
+\newblock {\em SIGCOMM Comput. Commun. Rev.}, 32(4):133--145, August 2002.
+
+\bibitem{tarnoi2014performance}
+Saran Tarnoi, Kalika Suksomboon, Wuttipong Kumwilaisak, and Yusheng Ji.
+\newblock Performance of probabilistic caching and cache replacement policies
+  for content-centric networks.
+\newblock In {\em Local Computer Networks (LCN), 2014 IEEE 39th Conference on},
+  pages 99--106. IEEE, 2014.
+
+\bibitem{wang1999survey}
+Jia Wang.
+\newblock A survey of web caching schemes for the internet.
+\newblock {\em ACM SIGCOMM Computer Communication Review}, 29(5):36--46, 1999.
+
+\bibitem{wang2013impact}
+Jianguo Wang, Eric Lo, Man~Lung Yiu, Jiancong Tong, Gang Wang, and Xiaoguang
+  Liu.
+\newblock The impact of solid state drive on search engine cache management.
+\newblock In {\em Proceedings of the 36th international ACM SIGIR conference on
+  Research and development in information retrieval}, pages 693--702. ACM,
+  2013.
+
+\bibitem{wong2006web}
+Kin-Yeung Wong.
+\newblock Web cache replacement policies: a pragmatic approach.
+\newblock {\em IEEE Network}, 20(1):28--34, 2006.
+
+\bibitem{xie2002locality}
+Yinglian Xie and David O'Hallaron.
+\newblock Locality in search engine queries and its implications for caching.
+\newblock In {\em INFOCOM 2002. Twenty-First Annual Joint Conference of the
+  IEEE Computer and Communications Societies. Proceedings. IEEE}, volume~3,
+  pages 1238--1247. IEEE, 2002.
+
+\bibitem{xylomenos2014survey}
+George Xylomenos, Christopher~N Ververidis, Vasilios~A Siris, Nikos Fotiou,
+  Christos Tsilopoulos, Xenofon Vasilakos, Konstantinos~V Katsaros, and
+  George~C Polyzos.
+\newblock A survey of information-centric networking research.
+\newblock {\em IEEE Communications Surveys \& Tutorials}, 16(2):1024--1049,
+  2014.
+
+\bibitem{ZHANG20133128}
+Guoqiang Zhang, Yang Li, and Tao Lin.
+\newblock Caching in information centric networking: A survey.
+\newblock {\em Computer Networks}, 57(16):3128 -- 3141, 2013.
+\newblock Information Centric Networking.
+
+\bibitem{zhang2013two}
+Weizhe Zhang, Hui He, and Jianwei Ye.
+\newblock A two-level cache for distributed information retrieval in search
+  engines.
+\newblock {\em The Scientific World Journal}, 2013, 2013.
+
+\bibitem{zipf2013psycho}
+George~Kingsley Zipf.
+\newblock {\em The psycho-biology of language: An introduction to dynamic
+  philology}.
+\newblock Routledge, 2013.
+
+\bibitem{zipf2016human}
+George~Kingsley Zipf.
+\newblock {\em Human behavior and the principle of least effort: An
+  introduction to human ecology}.
+\newblock Ravenio Books, 2016.
+
+\end{thebibliography}

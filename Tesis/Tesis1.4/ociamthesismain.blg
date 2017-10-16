@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ociamthesismain.aux
+The style file: plain.bst
+Database file #1: refs.bib
+Repeated entry---line 202 of file refs.bib
+ : @inproceedings{cambazoglu2010refreshing
+ :                                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 211 of file refs.bib
+ : @inproceedings{gan2009improved
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 338 of file refs.bib
+ : @inproceedings{lempel2003predictive
+ :                                    ,
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in named_data_networking
+Warning--to sort, need author or key in nsf10528
+Warning--to sort, need author or key in nsf13538
+Warning--can't use both volume and number fields in abrams1996removal
+Warning--empty journal in gomez2014servicios
+Warning--empty institution in kutscher2016information
+Warning--empty publisher in sosa2002arquitectura
+You've used 45 entries,
+            2118 wiz_defined-function locations,
+            748 strings with 12428 characters,
+and the built_in function-call counts, 17096 in all, are:
+= -- 1720
+> -- 811
+< -- 19
++ -- 333
+- -- 276
+* -- 1193
+:= -- 2713
+add.period$ -- 147
+call.type$ -- 45
+change.case$ -- 270
+chr.to.int$ -- 0
+cite$ -- 52
+duplicate$ -- 656
+empty$ -- 1316
+format.name$ -- 276
+if$ -- 3659
+int.to.chr$ -- 0
+int.to.str$ -- 45
+missing$ -- 45
+newline$ -- 226
+num.names$ -- 84
+pop$ -- 310
+preamble$ -- 1
+purify$ -- 228
+quote$ -- 0
+skip$ -- 488
+stack$ -- 0
+substring$ -- 1088
+swap$ -- 194
+text.length$ -- 19
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 172
+warning$ -- 7
+while$ -- 161
+width$ -- 47
+write$ -- 495
+(There were 3 error messages)

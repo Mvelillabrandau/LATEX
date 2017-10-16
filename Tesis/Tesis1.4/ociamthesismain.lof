@@ -1,0 +1,29 @@
+\select@language {spanish}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Diagrama de Ishikawa. Fuente: Elaboraci\IeC {\'o}n propia.}}{7}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Cronolog\IeC {\'\i }a de los principales hitos de ICN \cite {xylomenos2014survey}.}}{9}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Arquitecturas de reloj de arena de Internet y NDN \cite {named_data_networking}.}}{10}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Paquetes NDN.}}{11}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Arquitectura NDN, CR significa Content Router, FIB para Forwarding Information Base, PIT para Pending Interest Table y CS para Content Store. Fuente: A Survey of Information-Centric Networking Research \cite {xylomenos2014survey}.}}{12}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Topolog\IeC {\'\i }a de \textit {cach\IeC {\'e}} jer\IeC {\'a}rquico. Fuente: Arquitectura para la distribuci\IeC {\'o}n de documentos en un sistema distribuido a gran escala \cite {sosa2002arquitectura}.}}{17}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Topolog\IeC {\'\i }a de \textit {cach\IeC {\'e}} distribuido. Fuente: Arquitectura para la distribuci\IeC {\'o}n de documentos en un sistema distribuido a gran escala \cite {sosa2002arquitectura}.}}{17}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Topolog\IeC {\'\i }a de \textit {cach\IeC {\'e}} h\IeC {\'\i }brida. Fuente: Arquitectura para la distribuci\IeC {\'o}n de documentos en un sistema distribuido a gran escala \cite {sosa2002arquitectura}.}}{18}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Frecuencia de consulta peri\IeC {\'o}dica: ``18 de Septiembre'' (2004-2016). Fuente: Google Trends.}}{20}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Frecuencia de consulta r\IeC {\'a}faga: "Muerte de Fidel Castro"(2004-2017). Fuente: Google Trends.}}{21}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Frecuencia de consulta rafaga: ``Historia de Fidel Castro" (2012-2017). Fuente: Google Trends.}}{21}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Frecuencia de consulta permanente: ``YouTube" (2004-2017). Fuente: Google Trends.}}{22}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Tabla de popularidad de contenido. Fuente: On Performance of Cache Policies in Named Data Networking \cite {ran2013performance}}}{25}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Secci\IeC {\'o}n de la topolog\IeC {\'\i }a de la red. Fuente: On Performance of Cache Policies in Named Data Networking \cite {ran2013performance}}}{26}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Proporci\IeC {\'o}n de \textit {hit} en \textit {cach\IeC {\'e}} VS Tama\IeC {\~n}o \textit {cach\IeC {\'e}}. Fuente: On Performance of Cache Policies in Named Data Networking \cite {ran2013performance}}}{26}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Rendimiento medio de la red VS Tama\IeC {\~n}o \textit {cach\IeC {\'e}}. Fuente: On Performance of Cache Policies in Named Data Networking \cite {ran2013performance}}}{27}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Carga media del servidor VS Capacidad \textit {cach\IeC {\'e}}. Fuente: On Performance of Cache Policies in Named Data Networking \cite {ran2013performance}}}{27}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Red cascada usada en la simulaci\IeC {\'o}n. Fuente: Performance of probabilistic caching and cache replacement policies for content-centric networks \cite {tarnoi2014performance}}}{29}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Topolog\IeC {\'\i }a 6-node Sprint PoP. Fuente: \cite {Spring:2002:MIT:964725.633039}}}{31}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Ajuste de par\IeC {\'a}metros. Fuente: Cache Sharing Using Bloom Filters in Named Data Networking \cite {mun2017cache}}}{31}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Esquema \textit {cach\IeC {\'e}} de dos niveles. Fuente: Two level caching technique for improving result ranking \cite {singh2011two}}}{34}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Clasificaci\IeC {\'o}n de consultas basadas en el tiempo. Fuente: Time-based query classification and its application for page rank \cite {chen2011time}.}}{34}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Clasificaci\IeC {\'o}n de consultas seg\IeC {\'u}n pol\IeC {\'\i }tica. Fuente: Admission Policies for Caches of Search Engine Results \cite {baeza2007admission}.}}{39}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Arquitectura TinyLFU. Fuente:.\cite {einziger2014tinylfu}}}{40}

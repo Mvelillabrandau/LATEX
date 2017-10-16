@@ -1,0 +1,70 @@
+\begin{thebibliography}{10}
+
+\bibitem{nsf13538}
+Future internet architectures -- next phase (fia-np) (nsf13538).
+\newblock https://www.nsf.gov/pubs/2013/nsf13538/nsf13538.htm.
+
+\bibitem{nsf10528}
+Future internet architectures (fia) nsf10528.
+\newblock https://www.nsf.gov/pubs/2010/nsf10528/nsf10528.htm.
+
+\bibitem{named_data_networking}
+Named data networking: Executive summary - named data networking (ndn).
+\newblock https://named-data.net/project/execsummary/.
+
+\bibitem{aggarwal1999caching}
+Charu Aggarwal, Joel~L Wolf, and Philip~S. Yu.
+\newblock Caching on the world wide web.
+\newblock {\em IEEE Transactions on Knowledge and data Engineering},
+  11(1):94--107, 1999.
+
+\bibitem{ahlgren2012survey}
+Bengt Ahlgren, Christian Dannewitz, Claudio Imbrenda, Dirk Kutscher, and Borje
+  Ohlman.
+\newblock A survey of information-centric networking.
+\newblock {\em IEEE Communications Magazine}, 50(7), 2012.
+
+\bibitem{altingovde2009cost}
+Ismail~Sengor Altingovde, Rifat Ozcan, and {\"O}zg{\"u}r Ulusoy.
+\newblock A cost-aware strategy for query result caching in web search engines.
+\newblock In {\em European Conference on Information Retrieval}, pages
+  628--636. Springer, 2009.
+
+\bibitem{jacobson2006new}
+Van Jacobson.
+\newblock A new way to look at networking.
+\newblock {\em Google Tech Talk}, 30, 2006.
+
+\bibitem{jacobson2009networking}
+Van Jacobson, Diana~K Smetters, James~D Thornton, Michael~F Plass, Nicholas~H
+  Briggs, and Rebecca~L Braynard.
+\newblock Networking named content.
+\newblock In {\em Proceedings of the 5th international conference on Emerging
+  networking experiments and technologies}, pages 1--12. ACM, 2009.
+
+\bibitem{kutscher2016information}
+Dirk Kutscher, Suyong Eum, Kostas Pentikousis, Ioannis Psaras, Daniel Corujo,
+  Damien Saucez, T~Schmidt, and Matthias Waehlisch.
+\newblock Information-centric networking (icn) research challenges.
+\newblock Technical report, 2016.
+
+\bibitem{muller2009future}
+Paul M{\"u}ller and Bernd Reuther.
+\newblock Future internet architecture--a service oriented approachfuture
+  internet architecture--ein serviceorientierter ansatz.
+\newblock {\em it-Information Technology}, 50(6):383--389, 2009.
+
+\bibitem{wang1999survey}
+Jia Wang.
+\newblock A survey of web caching schemes for the internet.
+\newblock {\em ACM SIGCOMM Computer Communication Review}, 29(5):36--46, 1999.
+
+\bibitem{xylomenos2014survey}
+George Xylomenos, Christopher~N Ververidis, Vasilios~A Siris, Nikos Fotiou,
+  Christos Tsilopoulos, Xenofon Vasilakos, Konstantinos~V Katsaros, and
+  George~C Polyzos.
+\newblock A survey of information-centric networking research.
+\newblock {\em IEEE Communications Surveys \& Tutorials}, 16(2):1024--1049,
+  2014.
+
+\end{thebibliography}

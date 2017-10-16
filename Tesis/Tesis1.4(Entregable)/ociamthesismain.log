@@ -1,0 +1,1404 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.3.22)  16 JUN 2017 11:20
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**ociamthesismain.tex
+(./ociamthesismain.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(./ociamthesis.cls
+Document Class: ociamthesis 2010/11/22 v2.2 OCIAM thesis class
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/02/24 3.9q The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/01/15 v5.0o Spanish support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/02/24 3.9q Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen105
+)
+\es@quottoks=\toks15
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 533.
+Package babel Info: Making . an active character on input line 634.
+Package babel Info: Making < an active character on input line 679.
+Package babel Info: Making > an active character on input line 679.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2015/12/03 v1.1r UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+01E02 (decimal 7682)
+   defining Unicode char U+01E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks18
+\float@box=\box26
+\@float@everytoks=\toks19
+\@floatcapt=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks20
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(./ociamthesismain.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+
+
+LaTeX Warning: Label `fig:mesh1' multiply defined.
+
+
+LaTeX Warning: Label `clasificacion_consulta_cc_uc' multiply defined.
+
+)
+\openout1 = `ociamthesismain.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen106
+\scratchbox=\box28
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen107
+\MPnumerator=\count96
+\makeMPintoPDFobject=\count97
+\everyMPtoPDFconversion=\toks22
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Info: Redefining \. on input line 14.
+LaTeX Info: Redefining \% on input line 14.
+
+<logo2.png, id=1, 9.45532pt x 9.03375pt>
+File: logo2.png Graphic file (type png)
+ <use logo2.png>
+Package pdftex.def Info: logo2.png used on input line 29.
+(pdftex.def)             Requested size: 142.26378pt x 135.95166pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo2.png>] (./ociamthes
+ismain.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
+(Font)              using `OT1/cmr/bx/n' instead on input line 2.
+
+
+Package spanish Warning: Replacing `OT1/cmr/bx/sc' by 
+(spanish)                faked small caps on input line 2.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+])
+\tf@toc=\write3
+\openout3 = `ociamthesismain.toc'.
+
+ [2]
+(./ociamthesismain.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (4.97275pt too wide) in paragraph at lines 13--13
+ [][] []\OT1/cmr/m/n/12 Frecuencia de con-sul-ta pe-ri^^Sodi-ca: ``18 de Sep-ti
+em-bre'' (2004-2016). Fuen- 
+ []
+
+[3
+
+])
+\tf@lof=\write4
+\openout4 = `ociamthesismain.lof'.
+
+ [4] (./ociamthesismain.lot
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@lot=\write5
+\openout5 = `ociamthesismain.lot'.
+
+ [5
+
+]
+Cap\'{\i }tulo 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+[1
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+[4]
+Cap\'{\i }tulo 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+[5
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+<Imagenes/Diagrama_ishikawa.png, id=47, 700.86844pt x 395.97937pt>
+File: Imagenes/Diagrama_ishikawa.png Graphic file (type png)
+
+<use Imagenes/Diagrama_ishikawa.png>
+Package pdftex.def Info: Imagenes/Diagrama_ishikawa.png used on input line 121.
+
+(pdftex.def)             Requested size: 341.43306pt x 192.90775pt.
+ [6]
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+[7 <./Imagenes/Diagrama_ishikawa.png>]
+Underfull \hbox (badness 6893) in paragraph at lines 147--147
+[]\OT1/cmr/bx/sc/12 Situaci^^Son ac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+[]\OT1/cmr/bx/sc/12 Objetivo es-
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 147--147
+[]\OT1/cmr/bx/sc/12 Resultado es-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+[]\OT1/cmr/bx/sc/12 Criterio
+ []
+
+
+Overfull \hbox (1.46028pt too wide) in paragraph at lines 148--148
+[]\OT1/cmr/m/n/12 Comportamiento
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 148--148
+\OT1/cmr/m/n/12 din^^Sami-co y va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\OT1/cmr/m/n/12 ria-ble en el
+ []
+
+
+Underfull \hbox (badness 7362) in paragraph at lines 148--148
+\OT1/cmr/m/n/12 tiem-po de las
+ []
+
+
+Underfull \hbox (badness 4001) in paragraph at lines 148--148
+[]\OT1/cmr/m/n/12 Analizar pa-tro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\OT1/cmr/m/n/12 Conjuntos de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\OT1/cmr/m/n/12 tra-ba-jos que
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\OT1/cmr/m/n/12 se~nalen los
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\OT1/cmr/m/n/12 dis-tin-tos ti-pos
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 148--148
+\OT1/cmr/m/n/12 de pa-tro-nes de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\OT1/cmr/m/n/12 com-por-ta-mien-
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 148--148
+[]\OT1/cmr/m/n/12 N^^Sume-ro de pa-
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 148--148
+\OT1/cmr/m/n/12 tro-nes de-fi-ni-dos
+ []
+
+
+Underfull \hbox (badness 2409) in paragraph at lines 150--150
+[]\OT1/cmr/m/n/12 Variados tra-ba-
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 150--150
+\OT1/cmr/m/n/12 jos que bus-can
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+\OT1/cmr/m/n/12 me-jo-rar la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+\OT1/cmr/m/n/12 efi-cien-cia del
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]\OT1/cmr/m/n/12 Proponer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+\OT1/cmr/m/n/12 una so-lu-ci^^Son
+ []
+
+
+Underfull \hbox (badness 4699) in paragraph at lines 150--150
+\OT1/cmr/m/n/12 red ba-sa-da en
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+\OT1/cmr/m/n/12 con-te-ni-do con
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]\OT1/cmr/m/n/12 Esquema o
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]\OT1/cmr/m/n/12 Numero pa-tro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]\OT1/cmr/m/n/12 Esquemas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+\OT1/cmr/m/n/12 y pol^^S^^Pti-cas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+\OT1/cmr/m/n/12 y re-em-pla-zo)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+\OT1/cmr/m/n/12 ya pre-sen-tes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+\OT1/cmr/m/n/12 (LFU,,FIFO,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]\OT1/cmr/m/n/12 Realizar una
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+\OT1/cmr/m/n/12 eva-lua-ci^^Son ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+\OT1/cmr/m/n/12 pe-ri-men-tal de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+\OT1/cmr/m/n/12 la so-lu-ci^^Son
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]\OT1/cmr/m/n/12 Tasa de
+ []
+
+
+Overfull \hbox (24.71855pt too wide) in paragraph at lines 145--155
+[][] 
+ []
+
+[8]
+Cap\'{\i }tulo 3.
+<Imagenes/Linea_Temporal_ICN_limpia.png, id=62, 438.8897pt x 420.06938pt>
+File: Imagenes/Linea_Temporal_ICN_limpia.png Graphic file (type png)
+
+<use Imagenes/Linea_Temporal_ICN_limpia.png>
+Package pdftex.def Info: Imagenes/Linea_Temporal_ICN_limpia.png used on input l
+ine 166.
+(pdftex.def)             Requested size: 293.06346pt x 280.50279pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+[9
+
+ <./Imagenes/Linea_Temporal_ICN_limpia.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
+<Imagenes/Protocolo_IP_vs_NDN.png, id=67, 1027.84pt x 513.92pt>
+File: Imagenes/Protocolo_IP_vs_NDN.png Graphic file (type png)
+
+<use Imagenes/Protocolo_IP_vs_NDN.png>
+Package pdftex.def Info: Imagenes/Protocolo_IP_vs_NDN.png used on input line 17
+7.
+(pdftex.def)             Requested size: 341.43306pt x 170.71548pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+
+ []
+
+[10 <./Imagenes/Protocolo_IP_vs_NDN.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+
+ []
+
+<Paquetes_NDN.png, id=72, 996.72375pt x 421.575pt>
+File: Paquetes_NDN.png Graphic file (type png)
+ <use Paquetes_NDN.png>
+Package pdftex.def Info: Paquetes_NDN.png used on input line 190.
+(pdftex.def)             Requested size: 284.52756pt x 120.3431pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+
+Overfull \hbox (5.86752pt too wide) in paragraph at lines 199--200
+[]\OT1/cmr/bx/sc/12 Almac^^Sen de con-te-ni-do (\OT1/cmr/bx/it/12 Con-tent Sto-
+re\OT1/cmr/bx/sc/12 , CS): \OT1/cmr/m/n/12 El al-ma-ce-na-mien-to en \OT1/cmr/m
+/it/12 cach^^Se \OT1/cmr/m/n/12 de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+
+ []
+
+[11 <./Paquetes_NDN.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+
+ []
+
+<Nodo2.png, id=77, 483.30562pt x 400.49625pt>
+File: Nodo2.png Graphic file (type png)
+ <use Nodo2.png>
+Package pdftex.def Info: Nodo2.png used on input line 205.
+(pdftex.def)             Requested size: 284.52756pt x 235.78351pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+
+ []
+
+[12 <./Nodo2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--250
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+
+ []
+
+<Imagenes/Topologia_cache_jerarquico.png, id=92, 659.46375pt x 313.9228pt>
+File: Imagenes/Topologia_cache_jerarquico.png Graphic file (type png)
+
+<use Imagenes/Topologia_cache_jerarquico.png>
+Package pdftex.def Info: Imagenes/Topologia_cache_jerarquico.png used on input 
+line 274.
+(pdftex.def)             Requested size: 341.43306pt x 162.53665pt.
+ [16]
+<Imagenes/Topologia_cache_distribuido.png, id=96, 498.36188pt x 297.36093pt>
+File: Imagenes/Topologia_cache_distribuido.png Graphic file (type png)
+
+<use Imagenes/Topologia_cache_distribuido.png>
+Package pdftex.def Info: Imagenes/Topologia_cache_distribuido.png used on input
+ line 284.
+(pdftex.def)             Requested size: 256.0748pt x 152.79547pt.
+
+<Imagenes/Topologia_cache_hibrida.png, id=97, 457.71pt x 353.82187pt>
+File: Imagenes/Topologia_cache_hibrida.png Graphic file (type png)
+
+<use Imagenes/Topologia_cache_hibrida.png>
+Package pdftex.def Info: Imagenes/Topologia_cache_hibrida.png used on input lin
+e 294.
+(pdftex.def)             Requested size: 256.0748pt x 197.96072pt.
+ [17 <./Imagenes/Topologia_cache_jerarquico.png> <./Imagenes/Topologia_cache_di
+stribuido.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
+
+ []
+
+[18 <./Imagenes/Topologia_cache_hibrida.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+
+ []
+
+<18_sept_google_trend.png, id=107, 865.73438pt x 191.9672pt>
+File: 18_sept_google_trend.png Graphic file (type png)
+
+<use 18_sept_google_trend.png>
+Package pdftex.def Info: 18_sept_google_trend.png used on input line 324.
+(pdftex.def)             Requested size: 426.79134pt x 94.63593pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+
+ []
+
+[19] <muerte_fidel_castro.png, id=112, 847.66687pt x 184.43906pt>
+File: muerte_fidel_castro.png Graphic file (type png)
+
+<use muerte_fidel_castro.png>
+Package pdftex.def Info: muerte_fidel_castro.png used on input line 334.
+(pdftex.def)             Requested size: 426.79134pt x 92.86377pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--340
+
+ []
+
+<historia_Fidel_Castro.png, id=113, 848.4197pt x 193.47281pt>
+File: historia_Fidel_Castro.png Graphic file (type png)
+
+<use historia_Fidel_Castro.png>
+Package pdftex.def Info: historia_Fidel_Castro.png used on input line 343.
+(pdftex.def)             Requested size: 426.79134pt x 97.32364pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
+
+ []
+
+[20 <./18_sept_google_trend.png> <./muerte_fidel_castro.png>] [21 <./historia_F
+idel_Castro.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 352--353
+
+ []
+
+<YouTube.png, id=123, 846.16125pt x 207.02344pt>
+File: YouTube.png Graphic file (type png)
+ <use YouTube.png>
+Package pdftex.def Info: YouTube.png used on input line 356.
+(pdftex.def)             Requested size: 426.79134pt x 104.41806pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
+
+ []
+
+[22
+
+ <./YouTube.png>]
+Cap\'{\i }tulo 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--370
+
+ []
+
+[23
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 393--394
+
+ []
+
+
+<Imagenes/Paper1.1/TablaPopularidadContenido.png, id=131, 459.21562pt x 131.742
+19pt>
+File: Imagenes/Paper1.1/TablaPopularidadContenido.png Graphic file (type png)
+ <use Imagenes/Paper1.1/TablaPopularidadContenido.png>
+Package pdftex.def Info: Imagenes/Paper1.1/TablaPopularidadContenido.png used o
+n input line 406.
+(pdftex.def)             Requested size: 284.52756pt x 81.63106pt.
+ [24]
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--419
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 420--421
+
+ []
+
+<Imagenes/Paper1.1/Topologia_de_red.png, id=136, 328.22626pt x 251.43938pt>
+File: Imagenes/Paper1.1/Topologia_de_red.png Graphic file (type png)
+
+<use Imagenes/Paper1.1/Topologia_de_red.png>
+Package pdftex.def Info: Imagenes/Paper1.1/Topologia_de_red.png used on input l
+ine 424.
+(pdftex.def)             Requested size: 284.52756pt x 217.9678pt.
+ [25 <./Imagenes/Paper1.1/TablaPopularidadContenido.png>]
+<Imagenes/Paper1.1/Grafico_cache_hit_vs_size.png, id=142, 389.95688pt x 325.967
+82pt>
+File: Imagenes/Paper1.1/Grafico_cache_hit_vs_size.png Graphic file (type png)
+ <use Imagenes/Paper1.1/Grafico_cache_hit_vs_size.png>
+Package pdftex.def Info: Imagenes/Paper1.1/Grafico_cache_hit_vs_size.png used o
+n input line 434.
+(pdftex.def)             Requested size: 227.62204pt x 190.27011pt.
+
+<Imagenes/Paper1.1/Grafico_RendimientoRed_vs_cachesize.png, id=143, 421.575pt x
+ 338.01282pt>
+File: Imagenes/Paper1.1/Grafico_RendimientoRed_vs_cachesize.png Graphic file (t
+ype png)
+ <use Imagenes/Paper1.1/Grafico_RendimientoRed_vs_cachesize.png>
+Package pdftex.def Info: Imagenes/Paper1.1/Grafico_RendimientoRed_vs_cachesize.
+png used on input line 441.
+(pdftex.def)             Requested size: 284.52756pt x 228.13332pt.
+
+<Imagenes/Paper1.1/Grafico_cargaservidor_vs_capacidadcache.png, id=144, 411.788
+44pt x 329.73187pt>
+File: Imagenes/Paper1.1/Grafico_cargaservidor_vs_capacidadcache.png Graphic fil
+e (type png)
+
+<use Imagenes/Paper1.1/Grafico_cargaservidor_vs_capacidadcache.png>
+Package pdftex.def Info: Imagenes/Paper1.1/Grafico_cargaservidor_vs_capacidadca
+che.png used on input line 448.
+(pdftex.def)             Requested size: 284.52756pt x 227.8322pt.
+ [26 <./Imagenes/Paper1.1/Topologia_de_red.png> <./Imagenes/Paper1.1/Grafico_ca
+che_hit_vs_size.png>] [27 <./Imagenes/Paper1.1/Grafico_RendimientoRed_vs_caches
+ize.png> <./Imagenes/Paper1.1/Grafico_cargaservidor_vs_capacidadcache.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 463--465
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--468
+
+ []
+
+[28
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 469--470
+
+ []
+
+<Imagenes/Topologia_cascada.png, id=158, 630.10406pt x 165.61874pt>
+File: Imagenes/Topologia_cascada.png Graphic file (type png)
+
+<use Imagenes/Topologia_cascada.png>
+Package pdftex.def Info: Imagenes/Topologia_cascada.png used on input line 478.
+
+(pdftex.def)             Requested size: 284.52756pt x 74.7855pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
+
+ []
+
+[29 <./Imagenes/Topologia_cascada.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 497--498
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 499--500
+
+ []
+
+[30] <Imagenes/Topologia_Sprint_PoP.png, id=166, 399.74344pt x 260.47313pt>
+File: Imagenes/Topologia_Sprint_PoP.png Graphic file (type png)
+
+<use Imagenes/Topologia_Sprint_PoP.png>
+Package pdftex.def Info: Imagenes/Topologia_Sprint_PoP.png used on input line 5
+10.
+(pdftex.def)             Requested size: 284.52756pt x 185.4062pt.
+
+<Imagenes/Tabla_parametros.png, id=167, 525.46312pt x 207.77625pt>
+File: Imagenes/Tabla_parametros.png Graphic file (type png)
+
+<use Imagenes/Tabla_parametros.png>
+Package pdftex.def Info: Imagenes/Tabla_parametros.png used on input line 517.
+(pdftex.def)             Requested size: 284.52756pt x 112.51135pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--523
+
+ []
+
+[31 <./Imagenes/Topologia_Sprint_PoP.png> <./Imagenes/Tabla_parametros.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 530--531
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--534
+
+ []
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 551--552
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 553--554
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--556
+
+ []
+
+[33]
+
+LaTeX Warning: Reference `Esquemacache_2niveles' on page 34 undefined on input 
+line 558.
+
+
+<Imagenes/Paper2.1/EsquemaCache_2niveles.png, id=180, 737.75626pt x 184.43906pt
+>
+File: Imagenes/Paper2.1/EsquemaCache_2niveles.png Graphic file (type png)
+ <use Imagenes/Paper2.1/EsquemaCache_2niveles.png>
+Package pdftex.def Info: Imagenes/Paper2.1/EsquemaCache_2niveles.png used on in
+put line 562.
+(pdftex.def)             Requested size: 284.52756pt x 71.13167pt.
+
+<Imagenes/Clasificacion_consulta_tiempo.png, id=181, 600.74437pt x 354.57469pt>
+File: Imagenes/Clasificacion_consulta_tiempo.png Graphic file (type png)
+<use Imagenes/Clasificacion_consulta_tiempo.png>
+Package pdftex.def Info: Imagenes/Clasificacion_consulta_tiempo.png used on inp
+ut line 575.
+(pdftex.def)             Requested size: 241.84842pt x 142.74712pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 580--581
+
+ []
+
+[34
+
+ <./Imagenes/Paper2.1/EsquemaCache_2niveles.png> <./Imagenes/Clasificacion_cons
+ulta_tiempo.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 582--583
+
+ []
+
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 603--605
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 606--607
+
+ []
+
+[36
+
+] [37
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 659--660
+
+ []
+
+[38]
+<Imagenes/PoliticaAdmi_cache_CC_UC.png, id=202, 520.94624pt x 187.45032pt>
+File: Imagenes/PoliticaAdmi_cache_CC_UC.png Graphic file (type png)
+
+<use Imagenes/PoliticaAdmi_cache_CC_UC.png>
+Package pdftex.def Info: Imagenes/PoliticaAdmi_cache_CC_UC.png used on input li
+ne 680.
+(pdftex.def)             Requested size: 341.43306pt x 122.85664pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 685--686
+
+ []
+
+[39 <./Imagenes/PoliticaAdmi_cache_CC_UC.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 691--692
+
+ []
+
+<Imagenes/Politica_TinyLFU.png, id=207, 402.00188pt x 141.52875pt>
+File: Imagenes/Politica_TinyLFU.png Graphic file (type png)
+
+<use Imagenes/Politica_TinyLFU.png>
+Package pdftex.def Info: Imagenes/Politica_TinyLFU.png used on input line 695.
+(pdftex.def)             Requested size: 341.43306pt x 120.20497pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 700--701
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 702--704
+
+ []
+
+(./ociamthesismain.bbl [40
+
+ <./Imagenes/Politica_TinyLFU.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+[]\OT1/cmr/m/n/12 Future in-ter-net ar-chi-tec-tu-res -- next pha-se (fia-np) (
+nsf13538).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+[]\OT1/cmr/m/n/12 Future in-ter-net ar-chi-tec-tu-res (fia) nsf10528.
+ []
+
+[41
+
+] [42] [43] [44]) [45] (./ociamthesismain.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3304 strings out of 493029
+ 45783 string characters out of 6136234
+ 109078 words of memory out of 5000000
+ 6750 multiletter control sequences out of 15000+600000
+ 12939 words of font info for 47 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,11n,30p,1433b,469s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on ociamthesismain.pdf (51 pages, 1700773 bytes).
+PDF statistics:
+ 276 PDF objects out of 1000 (max. 8388607)
+ 158 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+
