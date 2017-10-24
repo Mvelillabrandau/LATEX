@@ -739,27 +739,27 @@ Debido ha que almacenar la estadística de las frecuencia de los ítems tiene un
 El \textit{Bloom Filter} es una estructura con datos probabilísticos lo cual permite saber de manera eficiente si un dato existe o no en un conjunto. Por lo que el \textit{Counting Bloom Filter} es un tipo de \textit{Bloom Filter}.
 Para cada política utilizada (LRU, Random, TLRU (LRU incorpora TinyLFU), TRandom (Random incorpora TinyLFU), TLFU (LFU incorpora TinyLFU), W-TinyLFU, LIRS y ARC). Las conclusiones obtenidos por esta demuestran que la tasa de \textit{hit} en las que utilizan esta política de admisión es mejor en comparación con las otras, destacándose entre estas TLRU y W-TinyLFU.\\
 
-\chapter{Propuesta}
-Para lo anterior, la solución propuesta en este trabajo consiste en desarrollar una arquitectura de caché para los nodos de una red NDN, tomando en cuenta el comportamiento dinámico de los usuarios. Para ello se utilizara el simulador ndnSIM el que nos ayudara a recrear una red basada en contenidos y obtener los resultados de la arquitectura caché propuesta.
 
-\section{Arquitectura cache}
+\chapter{Propuesta}
+
+Para lo anterior, la solución propuesta en este trabajo consiste en desarrollar una arquitectura de caché para los nodos de una red NDN, tomando en cuenta el comportamiento dinámico de los usuarios. Para ello se utilizara el simulador ndnSIM el que nos ayudara a recrear una red basada en contenidos y obtener los resultados de la arquitectura caché propuesta.
 
 \section{Escenario}
 
-\subsection{Trafico red}
+\subsection{Topologia y enlaces}
 
-\subsection{Topologia}
-
-El conjunto de nodos interconectados entre si o dicho de otra manera la topologia utilizada para llevar a cabo este trabajo, es descrita como una matriz de tres por tres, la cual se encuentra dentro del la categoría de topologia de árbol. A continuación se adjunta la representación gráfica de la topologia dentro del simulador ndnSIM:
+El conjunto de nodos interconectados entre si o dicho de otra manera la topologia utilizada para llevar a cabo este trabajo, es descrita como una matriz de tres por tres, la cual se encuentra dentro del la categoría de topologia de árbol. La representación gráfica de la topologia se puede apreciar en la Fig. \ref{topologia_3x3_plugin}
 
 \begin{figure}[!htb]
 	\centering
-	\includegraphics[width=12cm]{Imagenes/Matriz3x3.pdf}\\
+	\includegraphics[width=8cm]{Imagenes/Matriz3x3.pdf}\\
 	\caption{Topologia utilizada. Fuente: Elaboración propia}
-	\label{}
+	\label{topologia_3x3_plugin}
 \end{figure}
 
-\begin{lstlisting}[language=cpp,caption={Caption}]
+A continuación, en la Fig, se puede apreciar parte del código principal (main) en el cual se realiza la lectura de un archivo de texto, que contiene la estructura y los datos necesarios para crear la topologia usada en la simulación. Esto gracias a la clase 'AnnotatedTopologyReader'.
+
+\begin{lstlisting}[language=cpp,caption={Codigo fuente: main},label={codigo_topologia}]
 #include "ns3/core-module.h"
 #include "ns3/network-module.h"
 #include "ns3/ndnSIM-module.h"
@@ -777,8 +777,41 @@ topologyReader.SetFileName("extensions/topo-grid-3x3.txt"); // Se llama al archi
 topologyReader.Read(); // Lecura del archivo con la topologia.
 \end{lstlisting}
 
+\pagebreak
+Por otro lado en la Fig. se encuentra un fragmento del archivo de texto leído 'topo-grid-3x3-.txt' en donde se pueden configurar la estructura como tal y los parámetros para el trafico de datos.
 
+\begin{lstlisting}[frame=single]
+...
+# node  comment     yPos    xPos
+Node0   NA          3       1
+Node1   NA          3       2
+Node2   NA          3       3
+Node3   NA          2       1
+Node4   NA          2       2
+Node5   NA          2       3
+Node6   NA          1       1
+Node7   NA          1       2
+Node8   NA          1       3
+...
 
+# srcNode    dstNode    bandwidth   metric    delay queue
+Node0       Node1       1Mbps       1       10ms    10
+Node0       Node3       1Mbps       1       10ms    10
+Node1       Node2       1Mbps       1       10ms    10
+Node1       Node4       1Mbps       1       10ms    10
+Node2       Node5       1Mbps       1       10ms    10
+Node3       Node4       1Mbps       1       10ms    10
+Node3       Node6       1Mbps       1       10ms    10
+Node4       Node5       1Mbps       1       10ms    10
+Node4       Node7       1Mbps       1       10ms    10
+Node5       Node8       1Mbps       1       10ms    10
+Node6       Node7       1Mbps       1       10ms    10
+Node7       Node8       1Mbps       1       10ms    10
+\end{lstlisting}
+
+En donde en la primera tabla donde se define los \textit{routers} ubicándolos en un plano cartesiano dentro del simulador y una segunda tabla la que se define los enlaces y sus variables tales como el nodo salida(srcNode), nodo destino(dstNode), ancho de banda(bandwidth), métrica de enrutamiento(metric), retraso(delay) y cola(queue) la que ajusta el máximo de transmisión de paquetes en el enlace.  (\textit{link}).
+
+\pagebreak
 
 \subsection{Consultas}
 \subsubsection{Consumidor}
@@ -801,6 +834,10 @@ producerHelper.SetPrefix(prefix); //Seteo del prefijo
 producerHelper.SetAttribute("PayloadSize", StringValue("1024")); //
 producerHelper.Install(producer); // Se instala la aplicacion en una o mas nodos.
 \end{lstlisting}
+
+\section{Arquitectura cache}
+\subsection{Instalación}
+
 
 \chapter{Enfoques metodológico}
 
