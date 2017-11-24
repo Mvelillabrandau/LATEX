@@ -742,20 +742,22 @@ Para cada política utilizada (LRU, Random, TLRU (LRU incorpora TinyLFU), TRando
 
 \chapter{Propuesta}
 
-Para lo anterior, la solución propuesta en este trabajo consiste en desarrollar una arquitectura de caché para los nodos de una red NDN, tomando en cuenta el comportamiento dinámico de los usuarios. Para ello se utilizara el simulador ndnSIM el que nos ayudara a recrear una red basada en contenidos y obtener los resultados de la arquitectura caché propuesta.
+Para lo anterior, la solución propuesta en este trabajo consiste en desarrollar una arquitectura de caché para los nodos de una red NDN, tomando en cuenta el comportamiento dinámico de los usuarios. Para ello se utilizara el simulador ndnSIM el que  ayudara a recrear una red basada en contenidos y obtener los resultados de la arquitectura caché propuesta.
 
 \section{Escenario}
 
 \subsection{Topologia y enlaces}
 
-El conjunto de nodos interconectados entre si o dicho de otra manera la topologia utilizada para llevar a cabo este trabajo, es descrita como una matriz de tres por tres, la cual se encuentra dentro del la categoría de topologia de árbol. La representación gráfica de la topologia se puede apreciar en la Fig. \ref{topologia_3x3_plugin}
-
-\begin{figure}[!htb]
-	\centering
-	\includegraphics[width=8cm]{Imagenes/Matriz3x3.pdf}\\
-	\caption{Topologia utilizada. Fuente: Elaboración propia}
+El conjunto de nodos interconectados entre si o dicho de otra manera la topologia utilizada para llevar a cabo este trabajo, es descrita como una matriz de tres por tres, la cual se encuentra dentro del la categoría de topologia de árbol. El enlace entre los nodos sigue un protocolo PPP (Point-to-Point Protocol). La representación gráfica de la topologia se puede apreciar en la Fig. \ref{topologia_3x3_plugin}
+                                                                                                                                                                                                                   
+\begin{figure}[!htb]                                                                                  
+	\centering                                                        
+	\includegraphics[width=8cm]{Imagenes/Matriz3x3.pdf}\\                                                             
+	\caption{Topologia utilizada. Fuente: Elaboración propia}                                                                                                                                                         
 	\label{topologia_3x3_plugin}
 \end{figure}
+
+\pagebreak
 
 A continuación, en la Fig, se puede apreciar parte del código principal (main) en el cual se realiza la lectura de un archivo de texto, que contiene la estructura y los datos necesarios para crear la topologia usada en la simulación. Esto gracias a la clase 'AnnotatedTopologyReader'.
 
@@ -778,7 +780,7 @@ topologyReader.Read(); // Lecura del archivo con la topologia.
 \end{lstlisting}
 
 \pagebreak
-Por otro lado en la Fig. se encuentra un fragmento del archivo de texto leído 'topo-grid-3x3-.txt' en donde se pueden configurar la estructura como tal y los parámetros para el trafico de datos.
+Por otro lado en la Fig. se encuentra un fragmento del archivo de texto leído 'topo-grid-3x3-.txt' en donde se pueden configurar la estructura y los parámetros para el trafico de datos.
 
 \begin{lstlisting}[frame=single]
 ...
@@ -809,9 +811,35 @@ Node6       Node7       1Mbps       1       10ms    10
 Node7       Node8       1Mbps       1       10ms    10
 \end{lstlisting}
 
-En donde en la primera tabla donde se define los \textit{routers} ubicándolos en un plano cartesiano dentro del simulador y una segunda tabla la que se define los enlaces y sus variables tales como el nodo salida(srcNode), nodo destino(dstNode), ancho de banda(bandwidth), métrica de enrutamiento(metric), retraso(delay) y cola(queue) la que ajusta el máximo de transmisión de paquetes en el enlace.  (\textit{link}).
+En donde en la primera tabla donde se define los \textit{routers} ubicándolos en un plano cartesiano (X,Y) dentro del simulador y una segunda tabla en la que se definen los enlaces y sus variables tales como el nodo salida(srcNode), nodo destino(dstNode), ancho de banda(bandwidth), métrica de enrutamiento(metric), retraso(delay) y cola(queue) la que ajusta el máximo de transmisión de paquetes en el enlace(\textit{link}).
 
 \pagebreak
+
+\subsection{Arquitectura del caché}
+
+
+\begin{lstlisting}[language=cpp,caption={Caption}]
+NodeContainer nodo1, nodo2, nodo3, nodo4, nodo5, nodo6 ,nodo7, consumerNodes;
+
+// Se instancia la variable ndnHelper
+ndn::StackHelper ndnHelper;
+
+ndnHelper.SetOldContentStore("ns3::ndn::cs::Double", "MaxSize", "10000");
+
+nodo1.Add(Names::Find<Node>("Node1"));// Se busca el nodo segun nombre
+ndnHelper.Install(nodo1); // Se instala la politica de reemplazo en el nodo 1 (ROUTER)
+.
+.
+.
+ndnHelper.SetOldContentStore("ns3::ndn::cs::Nocache"); // Se define la politica de NO CACHE
+
+consumerNodes.Add(Names::Find<Node>("Node0")); // Se busca el nodo segun nombre
+Ptr<Node> producer = Names::Find<Node>("Node8");// Se busca el nodo segun nombre
+
+ndnHelper.Install(consumerNodes); // Se instala la politica de reemplazo en el nodo CONSUMIDOR
+ndnHelper.Install(producer); // Se instala la politica de reemplazo en el nodo PRODUCTOR
+\end{lstlisting}
+
 
 \subsection{Consultas}
 \subsubsection{Consumidor}
@@ -844,6 +872,8 @@ producerHelper.Install(producer); // Se instala la aplicacion en una o mas nodos
 \chapter{Pruebas y resultados}
 
 \chapter{Conclusiones}
+\section{Trabajo Futuro}
+
 
 %*******************************************************
 %next line adds the Bibliography to the contents page
